@@ -1,0 +1,5 @@
+# !/bin/bash
+
+ln -svb $PWD/.bashrc ~
+
+
